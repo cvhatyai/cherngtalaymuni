@@ -1,0 +1,8 @@
+io/flutter/plugins/GeneratedPluginRegistrant.java
+ io.flutter.plugins.GeneratedPluginRegistrant
+com/cityvariety/cvapp/Application.java
+ com.cityvariety.cvapp.Application
+com/cityvariety/cvapp/FirebaseCloudMessagingPluginRegistrant.java
+ com.cityvariety.cvapp.FirebaseCloudMessagingPluginRegistrant
+com/cityvariety/cvapp/BuildConfig.java
+ com.cityvariety.cvapp.BuildConfig
